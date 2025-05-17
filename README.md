@@ -1,4 +1,4 @@
-# AI-Paradox
+# Lawsin AI-Paradox
 The term "Lawsin AI Paradox" refers to a specific concept introduced by researcher Joey Lawsin concerning the limitations of Artificial Intelligence (AI) in achieving human-level equivalence. 
 
 Key Aspects of Lawsin's AI Paradox:
